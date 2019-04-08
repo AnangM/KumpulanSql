@@ -5,5 +5,5 @@ create table ms_tutor(
     Tutor_phone varchar(13),
     Tutor_email varchar(50),
     Tutor_gender varchar(6),
-    Tutor_birth datetime
+    Tutor_birth varchar(10)
 );

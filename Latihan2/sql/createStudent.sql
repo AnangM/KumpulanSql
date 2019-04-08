@@ -5,5 +5,5 @@ create table ms_student(
     Student_phone varchar(13),
     Student_email varchar(50),
     Student_gender varchar(6),
-    Student_birth datetime
+    Student_birth varchar(10)
 );
